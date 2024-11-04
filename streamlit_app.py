@@ -3,6 +3,7 @@ from fpdf import FPDF
 from PIL import Image
 import tempfile
 
+
 # Add this as the first Streamlit command
 st.set_page_config(page_title="Template for personal card", page_icon="📇")
 
